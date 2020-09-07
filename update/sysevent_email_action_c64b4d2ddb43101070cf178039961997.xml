@@ -43,7 +43,7 @@
 <p><strong>Click here to view the NeedIt Task record : &nbsp;${URI_REF}. </strong></p>
 <p>${mail_script:CountOverdueNeedItTasksAssignedTo}</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>${mailto:mailto.closeneedittask}</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
@@ -67,7 +67,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c64b4d2ddb43101070cf178039961997</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -75,7 +75,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysevent_email_action_c64b4d2ddb43101070cf178039961997</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-04 10:01:25</sys_updated_on>
+        <sys_updated_on>2020-09-07 05:33:25</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
