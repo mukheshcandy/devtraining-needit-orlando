@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">a90de3b62f311010dbba2d5df699b6e3</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">4856f0b5db22101070cf1780399619af</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
@@ -33,6 +33,14 @@
         <sys_update_name>sys_db_object_57c1b0314fb13200cb281b818110c7a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-03-29 19:59:31</sys_updated_on>
+        <u_final_percentage/>
+        <u_marks_in_fa_1/>
+        <u_marks_in_fa_2/>
+        <u_marks_in_fa_3/>
+        <u_marks_in_fa_4/>
+        <u_student_email/>
+        <u_student_name/>
+        <u_total_marks/>
         <update_access>false</update_access>
         <user_role/>
         <ws_access>true</ws_access>
